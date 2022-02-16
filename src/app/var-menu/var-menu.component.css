@@ -1,0 +1,22 @@
+#bg{
+    position: fixed;
+    top: 1000;
+    left: 100;
+    z-index: 1;
+}
+.mc{
+    position: absolute;
+    z-index: 99;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    color: bisque;
+}
+p{
+    grid-column: 2 / 8;
+}
+img{
+    grid-column: 6 / 4;
+}
+.vid{
+    grid-column: 4 / 4;
+}
