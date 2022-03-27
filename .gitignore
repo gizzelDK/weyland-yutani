@@ -31,6 +31,7 @@ chrome-profiler-events*.json
 .history/*
 
 # misc
+/src/assets/vids
 /.angular/cache
 /.sass-cache
 /connect.lock
@@ -44,3 +45,13 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+.gitignore
+src/assets/vids/Cold War.mp4
+src/assets/vids/Feelings are sound.mp4
+src/assets/vids/Like a perfect communist party.mp4
+src/assets/vids/Media Nihilism.mp4
+src/assets/vids/Pleasant.mp4
+src/assets/vids/She's and & Stillepigen.mp4
+src/assets/vids/U'll never be lonely again 360.mp4
+src/assets/vids/You will never be lonely again 360 med lyssværd injected.mp4
+tsconfig.json

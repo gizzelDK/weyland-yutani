@@ -1,5 +1,7 @@
 import { Component} from '@angular/core';
 import { Router } from '@angular/router';
+//import {MatIconRegistry} from '@angular/material/icon';
+
 
 @Component({
   selector: 'app-root',
@@ -11,6 +13,6 @@ import { Router } from '@angular/router';
 export class AppComponent  {
   title = 'Weyland-Yutani corp Danmark';
 
-  constructor(public router: Router) { }
+  constructor(public router: Router) {}
    
-  }
+}
